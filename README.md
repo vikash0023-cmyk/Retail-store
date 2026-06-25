@@ -282,12 +282,7 @@ Retail-Promotions-Analytics/
 
 ---
 
-## Author
-
 **Vikash Kr Madheshiya**
 
 Data Analyst | SQL | Power BI | Excel | Python
 
-LinkedIn: Add Your LinkedIn Profile
-
-GitHub: Add Your GitHub Profile
